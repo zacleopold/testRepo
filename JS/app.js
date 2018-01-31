@@ -8,7 +8,7 @@
     var gems = [
 
         {
-            name: 'Dodecaherdron',
+            name: 'Dodecaherdron This is also A Test of the Emergecy Broadcast System',
             price: 2.95,
             description : 'this is a description #1',
             canPurchase: true,
