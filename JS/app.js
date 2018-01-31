@@ -8,7 +8,7 @@
     var gems = [
 
         {
-            name: 'Dodecaherdron This is also A Test of the Emergecy Broadcast System',
+            name: 'Dodecaherdron',
             price: 2.95,
             description : 'this is a description #1',
             canPurchase: true,
@@ -28,7 +28,16 @@
             price: 10.00,
             description : 'this is a description #3' ,
             canPurchase: true,
-            
+
+        },
+
+        {
+
+            name: 'Finally Fixed it and Can move on !!!',
+            price: 10.00,
+            description : 'this is a description #4' ,
+            canPurchase: false,
+
         }
 
 
